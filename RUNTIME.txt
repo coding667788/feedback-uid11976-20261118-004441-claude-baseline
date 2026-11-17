@@ -1,0 +1,2 @@
+Windows; Python 3.12 standard library; SQLite.
+Python runtime: D:/CC_Codex_FeedBack/runtimes/cc005-csv-python312/python.exe
